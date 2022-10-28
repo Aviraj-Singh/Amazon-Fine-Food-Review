@@ -1,5 +1,5 @@
 # Amazon-Fine-Food-Review
-Experimenting with Amazon Fine Food Review data:
+Experimenting with Amazon Fine Food Review data
 
 ## Objectives:
 1. To build a review summarizer which takes reviews of products at Amazon and summarizes that.
@@ -23,4 +23,4 @@ For Summarizer:
 
 For Classifire:
 1. Can use **boosting models**
-2. Can experiment with Neural Network for better classification
+2. Can experiment with **Neural Network** for better classification
