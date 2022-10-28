@@ -22,5 +22,5 @@ For Summarizer:
 5. I can also implement **pointer-generator networks** and **coverage mechanisms**
 
 For Classifire:
-1. Can use **boosting models**
+1. Can use **Boosting Models** for better performance
 2. Can experiment with **Neural Network** for better classification
